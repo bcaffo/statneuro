@@ -1,13 +1,11 @@
-# Chapter Two
+# Regional analysis of neuroimaging data
 
-Here are some quick Markdown examples to get you started.
+## Thoughts on preprocessing
 
-To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
+## Common imaging types and their regional summaries
 
-To *italicize*, surround a word in asterisks.
+### Volumetric regional analysis
 
-To **bold**, use two asterisks.
+### Analysis of cortical thickness
 
-Here is a [link to the leanpub home-page](https://leanpub.com).
-
-Chapter 3 tells you how to make a preview of your book.
+### Functional analysis using seeds or regions
